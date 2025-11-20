@@ -8,9 +8,11 @@ DLL'yi indirin.
 
 Burdaki Linkten [ModLoader](https://github.com/alteik/ModLoader) veya release kısmından indirin.
 
-Kurulumunu yapın (talimatlar ModLoader github sayfasında bulunabilir)
+Kurulumunu yapın ↙️
 
-Mod'u C:\Users\YOUR_USER\AppData\Roaming\Minecraft Bedrock\mods klasörüne yerleştirin.
+vcruntime140_1.dll dosyasını indirip C:\XboxGames\Minecraft for Windows\Content'e atın.
+
+Mod'u C:\Users\(kişisel)\AppData\Roaming\Minecraft Bedrock\mods klasörüne yerleştirin.
 
 Not: Klasör yoksa oluşturun, ModLoader'ın klasörü oluşturması için mc'yi bir kez başlatın.
 
