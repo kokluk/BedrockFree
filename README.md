@@ -1,19 +1,19 @@
-# Simple MC License Bypass Tool
+# Basitce MC Lisans Atlama Aracı
 
-### A lightweight tool for players without a Minecraft license — created because the old method got patched.
+### Minecraft lisansını için hafif bir araç — 1.21.120+
 
-## How to Use
+## Nasıl Kullanılır
 
-Download the DLL for your Minecraft version from the Releases page.
+Minecraft sürümünüz için DLL'yi indirin.
 
-Download [ModLoader](https://github.com/alteik/ModLoader) from my github profile.
+Burdaki Linkten [ModLoader](https://github.com/alteik/ModLoader) indirin.
 
-Setup it (instructions can be found on ModLoader github page)
+Kurulumunu yapın (talimatlar ModLoader github sayfasında bulunabilir)
 
-Place mod in C:\Users\YOUR_USER\AppData\Roaming\Minecraft Bedrock\mods
+Mod'u C:\Users\YOUR_USER\AppData\Roaming\Minecraft Bedrock\mods klasörüne yerleştirin.
 
-note: if folder doesnt exists, start mc once for ModLoader to create it
+Not: Klasör yoksa oluşturun, ModLoader'ın klasörü oluşturması için mc'yi bir kez başlatın.
 
-Launch the game — it should now recognize you as licensed.
+Oyunu başlatın — Keyifli oyunlar.
 
-That’s it! No extra setup required.
+Bu kadar! Ekstra bişey yok.
