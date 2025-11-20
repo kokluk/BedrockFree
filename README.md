@@ -4,7 +4,7 @@
 
 ## Nasıl Kullanılır
 
-Minecraft sürümünüz için DLL'yi indirin.
+DLL'yi indirin.
 
 Burdaki Linkten [ModLoader](https://github.com/alteik/ModLoader) indirin.
 
