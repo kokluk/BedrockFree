@@ -12,7 +12,7 @@ Kurulumunu yapın ↙️
 
 vcruntime140_1.dll dosyasını indirip C:\XboxGames\Minecraft for Windows\Content'e atın.
 
-Mod'u C:\Users\(kişisel)\AppData\Roaming\Minecraft Bedrock\mods klasörüne yerleştirin.
+Mod'u C:\Kullanıcılar\(kişisel)\AppData\Roaming\Minecraft Bedrock\mods klasörüne yerleştirin.
 
 Not: Klasör yoksa oluşturun, ModLoader'ın klasörü oluşturması için mc'yi bir kez başlatın.
 
