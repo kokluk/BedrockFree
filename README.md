@@ -1,6 +1,6 @@
 # Basitce MC Lisans Atlama Aracı
 
-### Minecraft lisansını için hafif bir araç — 1.21.120+
+### Minecraft 1.21.120+ için.
 
 ## Nasıl Kullanılır
 
