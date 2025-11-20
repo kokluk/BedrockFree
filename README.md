@@ -6,7 +6,7 @@
 
 DLL'yi indirin.
 
-Burdaki Linkten [ModLoader](https://github.com/alteik/ModLoader) indirin.
+Burdaki Linkten [ModLoader](https://github.com/alteik/ModLoader) veya release kısmından indirin.
 
 Kurulumunu yapın (talimatlar ModLoader github sayfasında bulunabilir)
 
