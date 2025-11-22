@@ -4,17 +4,17 @@
 
 ## Nasıl Kullanılır
 
-DLL'yi indirin.
+ indirin.
 
-Burdaki Linkten [ModLoader](https://github.com/alteik/ModLoader) veya release kısmından indirin.
+Burdaki Linkten [ModLoader](https://github.com/alteik/ModLoader) veya [Burdan] indirin.
 
 Kurulumunu yapın ↙️
 
 vcruntime140_1.dll dosyasını indirip C:\XboxGames\Minecraft for Windows\Content'e atın.
 
-Mod'u C:\Kullanıcılar\SİZ\AppData\Roaming\Minecraft Bedrock\mods klasörüne yerleştirin.
+Minecraftforfree DLL'sini WİN + R Yapıp APPDATA Yazın ve AppData\Roaming\Minecraft Bedrock\mods klasörüne yerleştirin.
 
-Not: Klasör yoksa oluşturun, ModLoader'ın klasörü oluşturması için mc'yi bir kez başlatın.
+Not: Klasör yoksa oluşturun, ModLoader'ın klasörü oluşturması için Minecraft'ı bir kez başlatın.
 
 Oyunu başlatın — Keyifli oyunlar.
 
