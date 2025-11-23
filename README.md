@@ -11,7 +11,7 @@ Burdaki Linkten [ModLoader Git'i](https://github.com/alteik/ModLoader) veya [Bur
 Kurulumunu yapın ↙️
 
 vcruntime140_1.dll dosyasını indirip C:\XboxGames\Minecraft for Windows\Content'e atın.
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/bJ0TQWl" data-context="false" ><a href="//imgur.com/a/bJ0TQWl"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 Minecraftforfree DLL'sini WİN + R Yapıp APPDATA Yazın ve AppData\Roaming\Minecraft Bedrock\mods klasörüne yerleştirin.
 
