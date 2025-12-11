@@ -4,7 +4,7 @@
 
 ## Nasıl Kullanılır
 
-Minecraftforfree DLL'sini [indirin](https://github.com/kokluk/BedrockFree/releases/download/McBedrock/MinecraftForFree.dll).
+Minecraftforfree DLL'sini [indirin](https://github.com/kokluk/BedrockFree/releases/download/1.21.130/MinecraftForFree.dll).
 
 Burdaki Linkten [ModLoader Git'i](https://github.com/alteik/ModLoader) veya [Burdan](https://github.com/kokluk/BedrockFree/releases/download/McBedrock/vcruntime140_1.dll) indirin.
 
